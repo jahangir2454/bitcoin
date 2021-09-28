@@ -1,0 +1,68 @@
+@media(min-width:992px) and (max-width:1199px) { /* lg device */
+    
+
+
+
+  
+    
+}/* lg device */
+
+
+@media(min-width:768px) and (max-width:991px) { /* md device */
+
+   /* ====== home pages bitcoin part start ======= */
+    .bit-icon a {
+        height: 50px;
+        width: 50px;
+        font-size: 30px;
+        line-height: 50px;
+        margin-top: 44px;
+    }
+   /* ====== home pages bitcoin part end ======= */
+
+
+}/* md device */
+
+
+
+@media(min-width:576px) and (max-width:767px) { /* sm device */
+  
+   
+
+
+
+
+
+}/* sm device */
+
+
+
+
+@media(max-width:575px) { /* xs device */
+   
+
+
+    
+
+} /* xs device */
+
+
+
+
+@media(max-width:320px){
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
